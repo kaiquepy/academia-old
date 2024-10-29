@@ -34,7 +34,6 @@ public class Aula implements AulaComponent {
         this.nome = nome;
     }
 
-    @Override
     public Professor getProfessor() {
         return professor;
     }

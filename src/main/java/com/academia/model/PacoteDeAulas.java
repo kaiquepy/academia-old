@@ -32,11 +32,6 @@ public class PacoteDeAulas implements AulaComponent {
     }
     
     @Override
-    public Professor getProfessor() {
-        return null;
-    }
-    
-    @Override
     public void agendarAluno(Aluno aluno) {
         for (AulaComponent componente : components) {
             componente.agendarAluno(aluno);
