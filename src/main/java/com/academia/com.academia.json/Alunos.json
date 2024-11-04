@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "João Almeida",
+        "cpf": "123.456.789-00",
+        "plano": "Mensal",
+        "saldoDevedor": 50.00
+    },
+    {
+        "nome": "Mariana Costa",
+        "cpf": "987.654.321-00",
+        "plano": "Diária",
+        "saldoDevedor": 0.00
+    },
+    {
+        "nome": "Carlos Santos",
+        "cpf": "456.789.123-00",
+        "plano": "Mensal",
+        "saldoDevedor": 100.00
+    },
+    {
+        "nome": "Fernanda Oliveira",
+        "cpf": "321.654.987-00",
+        "plano": "Diária",
+        "saldoDevedor": 25.00
+    },
+    {
+        "nome": "Rafael Pereira",
+        "cpf": "789.123.456-00",
+        "plano": "Mensal",
+        "saldoDevedor": 0.00
+    }
+]

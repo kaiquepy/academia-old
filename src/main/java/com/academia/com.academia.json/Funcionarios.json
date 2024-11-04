@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Kayky Nery Alcântara Vieira",
+        "cpf": "111.222.333-44",
+        "usuario": "kayky.vieira",
+        "senha": "senhaKayky123"
+    },
+    {
+        "nome": "Kaique Vieira Miranda",
+        "cpf": "555.666.777-88",
+        "usuario": "kaique.miranda",
+        "senha": "senhaKaique123"
+    }
+]
